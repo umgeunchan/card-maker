@@ -3,7 +3,7 @@
 **React Three Fiber**와 **Custom Shader(GLSL)**를 활용한 인터랙티브 3D 포토카드 메이커입니다.
 사용자가 원하는 이미지를 업로드하고, 다양한 홀로그램 레어도를 실시간으로 적용할 수 있습니다.
 
-![Project Screenshot](./public/screenshot.png)
+![Project Screenshot](./public/screenshot.jpg)
 _(여기에 나중에 실행 화면 캡처 이미지를 넣으시면 좋습니다)_
 
 ## ✨ Key Features (주요 기능)
